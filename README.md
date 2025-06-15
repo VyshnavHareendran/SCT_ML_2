@@ -1,6 +1,6 @@
 # Customer Segmentation Using K-Means Clustering
 
-This is **Task 1** of my internship at *Skill Craft Technology*.  
+This is **Task 2** of my internship at *Skill Craft Technology*.  
 This project applies K-Means clustering for customer segmentation on mall customer data. It aims to group customers based on their annual income and spending score, helping businesses understand different customer profiles.
 
 Project Features
